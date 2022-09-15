@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://github.com/syafiquel/syafiquel/blob/main/header.png" alt="banner">
 <!--
 **syafiquel/syafiquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
